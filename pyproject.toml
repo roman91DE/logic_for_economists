@@ -1,0 +1,14 @@
+[project]
+name = "logic-for-economists"
+version = "0.1.0"
+description = "Notebooks for the Coursera Course: Logic for Economists"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipython>=9.1.0",
+    "jupyter>=1.1.1",
+    "notebook>=7.4.1",
+    "pandas>=2.2.3",
+    "ruff>=0.11.6",
+    "sympy>=1.13.3",
+]
